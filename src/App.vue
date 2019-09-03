@@ -39,7 +39,7 @@
             id="content"
             class="ui-card mb-5"
           >
-            <Nl v-bind:json="json" />
+            <Declaration v-bind:json="json" />
           </div>
           <textarea
             class="form-control hidden-textarea"
@@ -53,13 +53,13 @@
 </template>
 
 <script>
-import Nl from "./components/texts/Nl.vue";
+import Declaration from "./components/Declaration.vue";
 import LanguageSwitcher from "./components/LanguageSwitcher.vue";
 
 export default {
   name: "app",
   components: {
-    Nl,
+    Declaration,
     LanguageSwitcher
   },
 
