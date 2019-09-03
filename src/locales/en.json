@@ -1,0 +1,7 @@
+{
+    "ui": {
+        "choose_file": "Choose a HTML file",
+        "copy_html": "Copy the HTML",
+        "alert_copied": "The HTML has been copied to clipboard 👌 !"
+    }
+}

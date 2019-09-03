@@ -1,0 +1,11 @@
+{
+    "ui": {
+        "choose_file": "Kies een JSON-bestand",
+        "copy_html": "Kopieer HTML",
+        "alert_copied": "De HTML is gekopieerd naar het klembord 👌 !"
+    },
+    "text": {
+        "title": "Toegankelijkheidsverklaring",
+        "part1_title": "Deel 1 : Verplichte inhoudseisen Toegankelijkheidsverklaring"
+    }
+}

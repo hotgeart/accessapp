@@ -1,0 +1,7 @@
+{
+    "ui": {
+        "choose_file": "Choisir un fichier JSON",
+        "copy_html": "Copier l'HTML",
+        "alert_copied": "L'HTML a été copié dans le presse-papiers 👌 !"
+    }
+}
